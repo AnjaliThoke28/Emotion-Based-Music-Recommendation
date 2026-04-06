@@ -45,12 +45,7 @@ An **AI-powered music recommendation system** that detects user emotions in real
 
 ---
 
-## 📷 Screenshots
 
-<p align="center">
-  <img src="images/emotion.png" width="400"/>
-  <img src="images/recommendation.png" width="400"/>
-</p>
 
 ---
 
